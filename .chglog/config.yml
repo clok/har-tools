@@ -2,7 +2,7 @@ style: github
 template: CHANGELOG.tpl.md
 info:
   title: CHANGELOG
-  repository_url: https://github.com/outersky/har-tools
+  repository_url: https://github.com/clok/har-tools
 options:
   commits:
   commit_groups:
