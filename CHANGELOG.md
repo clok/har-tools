@@ -8,6 +8,9 @@
 - update name of repo in github-release commands
 - **patch:** patched links to work on forked repo for demonstration
 
+### Chore
+- **release:** v1.0.0
+
 ### Features
 - **release process:** added framework for compiling binaries and publishing releases to github
 
